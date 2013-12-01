@@ -177,7 +177,7 @@
 						</goals>
 						<!-- optionally you can configure a different target folder -->
 						<configuration>
-							<outputDirectory>xtend-gen</outputDirectory>
+							<outputDirectory>src/main/xtend-gen</outputDirectory>
 						</configuration>
 					</execution>
 				</executions>
